@@ -1,9 +1,9 @@
 ---
-description: This are all the notes i took while going through the Pentester path
+description: Actividades de ISO
 ---
 
-# CPTS Notes
+# ISO
 
-1. [enumeration-and-ids-evading.md](cpts-notes/enumeration-and-ids-evading.md "mention")
-2. [footprinting.md](cpts-notes/footprinting.md "mention")
+* [gestion-de-la-bcd-en-windows-1751c97f8473800dbe67ef8d304ab743.md](readme/gestion-de-la-bcd-en-windows-1751c97f8473800dbe67ef8d304ab743.md "mention")
+* buenas
 

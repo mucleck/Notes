@@ -1,5 +1,4 @@
 # Table of contents
 
-* [CPTS Notes](README.md)
-  * [Enumeration and IDS Evading](cpts-notes/enumeration-and-ids-evading.md)
-  * [Footprinting](cpts-notes/footprinting.md)
+* [ISO](README.md)
+  * [Gestión de la BCD en Windows](readme/gestion-de-la-bcd-en-windows-1751c97f8473800dbe67ef8d304ab743.md)
